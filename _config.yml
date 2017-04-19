@@ -1,8 +1,9 @@
+# Site settings
 title: Artful Code
-description: Where Code is Art
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-minimal
+email: john@artfulcode.com
+description: Development firm
+baseurl: ""
+url: ""
 
-gems:
-  - jekyll-mentions
+# Build settings
+permalink: pretty
